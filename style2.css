@@ -8,7 +8,6 @@ body{
     color: #333;
 }
 
-/* common */
 .label{
     font-size: 11px;
     font-weight: 700;
@@ -35,7 +34,6 @@ body{
     cursor: pointer;
 }
 
-/* hero */
 .hero-section{
     height: 468px;
     background: linear-gradient(135deg, #fedcd3, #ffd8d8);
@@ -96,7 +94,6 @@ body{
     color: #20222f;
 }
 
-/* about */
 .about-section{
     max-width: 1230px;
     margin: 121px auto 0;
@@ -174,7 +171,6 @@ body{
     margin-top: 41px;
 }
 
-/* curator */
 .curator-section{
     max-width: 1230px;
     margin: 206px auto 0;
@@ -244,7 +240,6 @@ body{
     color: #f04a50;
 }
 
-/* process */
 .process-section{
     margin-top: 172px;
     text-align: center;
@@ -307,7 +302,6 @@ body{
     color: #8e919b;
 }
 
-/* discount */
 .discount-section{
     max-width: 1230px;
     margin: 175px auto 0;
@@ -377,7 +371,6 @@ body{
     height: 43px;
 }
 
-/* who */
 .who-section{
     max-width: 1230px;
     margin: 192px auto 0;
@@ -407,7 +400,6 @@ body{
     line-height: 30px;
 }
 
-/* program */
 .program-section{
     max-width: 1230px;
     margin: 211px auto 0;
@@ -460,7 +452,6 @@ body{
     top: 64px;
 }
 
-/* gray */
 .gray-section{
     height: 1444px;
     margin-top: 148px;
@@ -569,7 +560,6 @@ body{
     margin-top: 49px;
 }
 
-/* more courses */
 .more-section{
     max-width: 1230px;
     margin: 129px auto 0;
@@ -659,7 +649,6 @@ body{
     height: 51px;
 }
 
-/* footer */
 footer{
     margin-top: 182px;
 }
